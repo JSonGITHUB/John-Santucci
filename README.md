@@ -1,9 +1,7 @@
 # Portfolio
 Showcase for work related projects
 
-John Santucci
-www.linkedin.com/in/johnsantucci
-jhnsntcc@gmail.com
+John Santucci - www.linkedin.com/in/johnsantucci - jhnsntcc@gmail.com
 
 
 WEB APPLICATION DEVELOPER
@@ -19,9 +17,7 @@ HTML5, CSS, JavaScript, XML, SharePoint, Dreamweaver, Photoshop, Excel, Flash, A
 
 PROFESSIONAL EXPERIENCE
 
-CareFusion, San Diego, CA
-Application Developer
-2012 – 2017
+CareFusion, San Diego, CA - Application Developer: 2012 – 2017
 
 Developed web applications for product support and simulation, decision support and learning.
 
@@ -39,9 +35,7 @@ Optimized, updated and maintained.
 
 
 
-Callaway Golf, Carlsbad, CA
-Flash Actionscript Programmer
-2010 - 2012
+Callaway Golf, Carlsbad, CA - Flash Actionscript Programmer: 2010 - 2012
 
 Developed and maintained a mobile golf application for the uPro mx+ with touch interface and gps.
 
@@ -51,9 +45,7 @@ Evolved application by meeting with various teams in a collaborative environment
 Resolved issues by conducting field tests and analyzing user feedback.
 
 
-DC Shoes, Vista, CA
-Flash Web Developer
-2001 - 2009
+DC Shoes, Vista, CA - Flash Web Developer: 2001 - 2009
 
 Developed and maintained DCSHOES.COM to support global marketing campaigns across all brand categories including athlete profiles and team updates.
 
