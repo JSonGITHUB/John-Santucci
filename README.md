@@ -1,7 +1,7 @@
 # Portfolio
 Showcase for work related projects
 
-John Santucci * www.linkedin.com/in/johnsantucci * jhnsntcc@gmail.com
+John Santucci | www.linkedin.com/in/johnsantucci | jhnsntcc@gmail.com
 
 
 WEB APPLICATION DEVELOPER
