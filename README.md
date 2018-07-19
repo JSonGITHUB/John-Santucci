@@ -1,8 +1,11 @@
 # Resume
 
 John Santucci
+
 www.linkedin.com/in/johnsantucci
+
 jhnsntcc@gmail.com
+
 https://jsongithub.github.io/portfolio/
 
 
