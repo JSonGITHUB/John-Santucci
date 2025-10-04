@@ -9,15 +9,18 @@ jhnsntcc@gmail.com
 https://jsongithub.github.io/portfolio/
 
 FRONTEND DEVELOPER
+
 I specialize in creating interactive user experiences by leveraging a blend of visual sense and technical skills. A creative thinker with a proven track record of integrating cutting-edge web technologies to optimize overall project performance. Proficient at cultivating positive relationships across all organizational levels. I thrive in collaborative environments, having successfully led projects and worked closely with designers and developers to deliver impactful solutions.
 
 Technologies
+
 HTML5, JavaScript (ES6), CSS3, AJAX, XML, JSON, jQuery, Regex, REST APIs, 
 ReactJS, VueJS, NPM, Node, Express, Bootstrap, Google Data Layer, Pingdom, 
 eCommerce, Git, Linux, Visual Studio, Microsoft Office, Verint, SharePoint, 
 Photoshop, Premiere, Excel, Perforce, Bitbucket, GitHub, Jenkins, Jira
 
 Concepts
+
 Single Page Architecture, Progressive Web Apps, VanillaJS, Modules, Error 
 handling, Callbacks, Closures, Promises, Streams, Arrow functions, OOP, 
 Functional programming, Asynchronous programming, Components, Decision 
@@ -25,12 +28,14 @@ Support, Simulation, eLearning, Intranet Community, Social Platforms, Product
 Support, UI, UX, Mobile, Responsive, Reusability
 
 Process
+
 Source Control, Sprint, Sprint Grooming, Technical Discussions, Developing, 
 Testing, Code Reviews, Quality Assurance, Code Merges, Bug Fixes, Builds, 
 Deploys, Feedback Analysis, Upgrade Analysis, Feature Specs, Proof of Concept, 
 Optimization, Agile/Scrum
 
 Education
+
 Bachelor of Science, Computer Information Systems Dowling College, Oakdale, NY
 
 Professional Experience
