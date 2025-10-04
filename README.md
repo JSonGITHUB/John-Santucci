@@ -8,72 +8,97 @@ jhnsntcc@gmail.com
 
 https://jsongithub.github.io/portfolio/
 
+FRONTEND DEVELOPER
+I specialize in creating interactive user experiences by leveraging a blend of visual sense and technical skills. A creative thinker with a proven track record of integrating cutting-edge web technologies to optimize overall project performance. Proficient at cultivating positive relationships across all organizational levels. I thrive in collaborative environments, having successfully led projects and worked closely with designers and developers to deliver impactful solutions.
 
-FRONT END DEVELOPER
+Technologies
+HTML5, JavaScript (ES6), CSS3, AJAX, XML, JSON, jQuery, Regex, REST APIs, 
+ReactJS, VueJS, NPM, Node, Express, Bootstrap, Google Data Layer, Pingdom, 
+eCommerce, Git, Linux, Visual Studio, Microsoft Office, Verint, SharePoint, 
+Photoshop, Premiere, Excel, Perforce, Bitbucket, GitHub, Jenkins, Jira
 
-Web Application and Website Developer able to produce a seamless interactive experience for the end user by applying visual sense and technical skills. Creative thinker with a track record of integrating new web technologies. Effective at building relationships at all levels within an organization. Successful collaborating with a team of designers and developers and owning projects.
+Concepts
+Single Page Architecture, Progressive Web Apps, VanillaJS, Modules, Error 
+handling, Callbacks, Closures, Promises, Streams, Arrow functions, OOP, 
+Functional programming, Asynchronous programming, Components, Decision 
+Support, Simulation, eLearning, Intranet Community, Social Platforms, Product 
+Support, UI, UX, Mobile, Responsive, Reusability
 
-TECHNOLOGIES
+Process
+Source Control, Sprint, Sprint Grooming, Technical Discussions, Developing, 
+Testing, Code Reviews, Quality Assurance, Code Merges, Bug Fixes, Builds, 
+Deploys, Feedback Analysis, Upgrade Analysis, Feature Specs, Proof of Concept, 
+Optimization, Agile/Scrum
 
-HTML5, JavaScript, ES6, CSS3, AJAX, XML, JSON, jQuery, REST, NPM, Node, Express, Bootstrap, Web Applications, Local Storage, Web Analytics, eCommerce, GPS, Accelerometer, Git, Grunt, Teamwork, Slack, Linux, Microsoft Office, SharePoint, Dreamweaver, Photoshop, Premiere, Excel, Perforce and Jira
+Education
+Bachelor of Science, Computer Information Systems Dowling College, Oakdale, NY
 
-CONCEPTS
+Professional Experience
 
-Single Page Architecture, Progressive Web Apps, VanillaJS, Error handling, Callbacks, Prototype, Closures, Promises, Streams, Arrow functions, Observables, OOP, Functional programming, Asynchronous programming, Libraries, Components, Services, Decision Support, Simulation, Product Support, UI, UX, Social Media, Sharing, Playlists, Shopping Cart Development, Mobile, Responsive, Prototyping, Code Architecture, Feature Specs, eLearning, Embedded and MVC, Source Control and Testing
+Social Edge Consulting, Remote
+Frontend Developer | 2021 – 2023
 
-PROCESS
+Developed client intranet social platforms as a Frontend Developer using React, HTML, Javascript, Velocity, CSS3, LESS, jQuery, JSON, Git, Bitbucket and Jira. 
 
-Test Driven Development, Test Scripting, Feedback Analysis, Optimization and Agile/Scrum
+* Engineered custom components and modified out-of-the-box 
+components to deliver technical solutions.
+* Revitalized brand presence and consistency, through theme 
+improvements.
+* Generated comprehensive documentation for code customization 
+analysis, aiding client communications and the upgrade process.
+* Enhanced client system performance through regular maintenance of 
+code quality and proactive system upgrades.
 
-PROFESSIONAL EXPERIENCE
+National Pen Company, San Diego, CA
+Frontend Developer | 2018 – 2020
+
+Contributed to the frontend development of an e-commerce platform, leveraging 
+technologies such as HTML, JavaScript, jQuery, Regex, JSON, JSP, and version 
+control tools like Git and Bitbucket. Engaged in continuous integration and 
+deployment processes using Jenkins, monitored system performance with 
+Pingdom, and collaborated on project management using Jira.
+
+* Integrated Google Analytics data layer, improving user tracking.
+* Developed prototypes, contributing to effective decision making.
+* Resolved production issues promptly, ensuring uninterrupted service.
+* Configured test scripts for automated testing and monitoring.
+* Contributed to sprint grooming, participated in code reviews, and 
+facilitated builds and deployments.
 
 CareFusion, San Diego, CA
-Web Application Developer
-2012 – 2017
+Application Developer | 2012 – 2017
 
-Developed Progressive Web Applications in Global Customer Service Department for product support and simulation, decision support and learning.
+Developed web applications providing product support, simulation, learning and 
+decision support, aiding in strategic decision making.
 
-* Contributed to an efficient workflow by utilizing interpersonal, organizational and communication skills to accept  direction, provide feedback, document and analyze stakeholder requests and feature specs, architect logic and data, provide test scripts and the content update process as well as present and explain technical information.
-  
-* Accelerated project development and facilitated discussions by rapidly developing functional prototypes.
-
-* Collaborated with artists, designers and programmers to develop a cohesive and manageable UI.
-
-* Designed, developed, implemented, optimized, debugged, updated and tested reusable code libraries, UI systems and functionality using object oriented programming practices, common design patterns, HTML5, CSS and Javascript.
-Developed web applications, game user interfaces and mini-games in a multi-developer environment.
-
+* Engineered reusable code libraries to optimize application performance 
+and ensure robust functionality.
+* Expedited the development of projects by rapidly creating prototypes.
+* Collaborated with stakeholders, and built test scripts.
+* Fostered cross-functional collaboration, resulting in a cohesive UI design.
 
 Callaway Golf, Carlsbad, CA
-Application Developer
-2010 - 2012
+Application Developer | 2010 - 2012
 
-Developed and maintained a mobile golf application for the uPro mx+ with touch interface and gps.
+Developed and maintained a mobile golf application for the uPro mx+, 
+incorporating a touch interface and GPS capabilities.
 
-* Developed new features from concept and design to prototype and completion.
-
-* Re-architected pre-existing code with optimization solutions.
-
-* Evolved application by meeting with various teams in a collaborative environment.
-
-* Resolved issues by conducting field tests and analyzing user feedback.
-
+* Led the end-to-end development process for new features.
+* Re-architected pre-existing code, enhancing performance.
+* Conducted field tests, analyzed feedback and executed timely 
+resolutions.
+* Collaborated with cross-functional teams to drive innovation.
 
 DC Shoes, Vista, CA
-Web Developer
-2001 - 2009
+Web Developer | 2001 - 2009
 
-Developed and maintained DCSHOES.COM to support global marketing campaigns across all brand categories including athlete profiles and team updates.
+Developed and maintained DCSHOES.COM, supporting global marketing 
+campaigns across all brand categories, including athlete and team updates. 
 
-* Developed websites supporting Rob & Big, Rob Dyrdek's Fantasy Factory and Travis Pastrana's Nitro Circus.
-
-* Developed websites supporting all product lines with 5 yearly seasonal updates and P2P integration.
-
+* Created micro sites for popular shows like “Rob & Big”, “Rob Dyrdek's 
+Fantasy Factory” and “Travis Pastrana's Nitro Circus“.
+* Managed websites for all product lines, overseeing seasonal updates and 
+P2P integration.
 * Developed banner ads supporting seasonal marketing initiatives.
-
-* Developed RSS Feeds for video podcasts across all brand categories reaching and maintaining top 10 status in the iTunes store.
-
-* Implemented and maintained all web analytics.
-
-
-EDUCATION
-Bachelor of Science, Computer Information Systems Dowling College, Oakdale, NY
+* Implemented web analytics and presented valuable insights fostering 
+awareness of a global audience.
