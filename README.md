@@ -54,6 +54,7 @@ analysis, aiding client communications and the upgrade process.
 * Enhanced client system performance through regular maintenance of 
 code quality and proactive system upgrades.
 
+
 National Pen Company, San Diego, CA
 Frontend Developer | 2018 – 2020
 
@@ -70,6 +71,7 @@ Pingdom, and collaborated on project management using Jira.
 * Contributed to sprint grooming, participated in code reviews, and 
 facilitated builds and deployments.
 
+
 CareFusion, San Diego, CA
 Application Developer | 2012 – 2017
 
@@ -82,6 +84,7 @@ and ensure robust functionality.
 * Collaborated with stakeholders, and built test scripts.
 * Fostered cross-functional collaboration, resulting in a cohesive UI design.
 
+
 Callaway Golf, Carlsbad, CA
 Application Developer | 2010 - 2012
 
@@ -93,6 +96,7 @@ incorporating a touch interface and GPS capabilities.
 * Conducted field tests, analyzed feedback and executed timely 
 resolutions.
 * Collaborated with cross-functional teams to drive innovation.
+
 
 DC Shoes, Vista, CA
 Web Developer | 2001 - 2009
